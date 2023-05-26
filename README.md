@@ -6,7 +6,7 @@
   
   <h2>Table of Contents</h2>
   <ul>
-    <li><a href="https://github.com/El-Sayed-Mustafa/Hotel-Rating-Prediction/edit/main/README.md#project-overview">Project Overview</a></li>
+    <li><a href="#project-overview">Project Overview</a></li>
     <li><a href="#data-preprocessing">Data Preprocessing</a></li>
     <li><a href="#model-training-and-evaluation">Model Training and Evaluation</a></li>
     <ul>
